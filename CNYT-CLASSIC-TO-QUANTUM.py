@@ -1,6 +1,6 @@
 #import new_complejos
 
-import matplotlib.pyplot as plt
+
 import scipy
 
 
