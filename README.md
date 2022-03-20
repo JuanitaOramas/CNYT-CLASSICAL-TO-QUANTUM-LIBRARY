@@ -47,7 +47,7 @@ To run the test of the library you´ll need to open the following file.
 
 ## Built With
 
-* [Dropwizard](https://www.jetbrains.com/es-es/pycharm/) - The framework used
+* [Pycharm](https://www.jetbrains.com/es-es/pycharm/) - The framework used
 
 
 
