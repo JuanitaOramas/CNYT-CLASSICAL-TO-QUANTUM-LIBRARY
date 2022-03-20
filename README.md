@@ -35,7 +35,7 @@ The instructions to use this library step by step.
 
 2. Use the following command to copy the repository
     - Right click in the folder and use the option "Git Bash Here".
-        git clone https://github.com/JuanitaOramas/CNYT-CLASSICAL-TO-QUANTUM-LIBRARY.git
+        ```git clone https://github.com/JuanitaOramas/CNYT-CLASSICAL-TO-QUANTUM-LIBRARY.git```
     - Then the repository will be in your new folder ready to use it.
 
 
