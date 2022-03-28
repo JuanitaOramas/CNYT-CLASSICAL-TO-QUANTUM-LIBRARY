@@ -41,9 +41,7 @@ The instructions to use this library step by step.
     - Then the repository will be in your new folder ready to use it.
 
 
-## Running the tests
 
-To run the test of the library you´ll need to open the following file.
 
 
 
